@@ -1,5 +1,7 @@
 # fastret-cli
 
+[![Build Status](https://travis-ci.com/arshadkazmi42/fastret-cli.svg?branch=master)](https://travis-ci.com/arshadkazmi42/fastret-cli)
+
 CLI tool for fastret-framework
 
 > Give us a :star: if you like our work :heart:
