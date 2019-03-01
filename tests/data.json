@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GET API TEST",
+    "url": "https://jsonplaceholder.typicode.com/todos/1",
+    "headers": {},
+    "body": {},
+    "method": "GET",
+    "skip_keys": ["title"],
+    "response": {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut aute",
+      "completed": false
+    }
+  },
+  {
+    "name": "GET API WRONG TEST",
+    "url": "https://jsonplaceholder.typicode.com/todos/2",
+    "headers": {},
+    "body": {},
+    "method": "GET",
+    "skip_keys": ["title"],
+    "response": {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut aute",
+      "completed": false
+    }
+  }
+]
