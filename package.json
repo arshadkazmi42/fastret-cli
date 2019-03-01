@@ -1,0 +1,38 @@
+{
+  "name": "fastret-cli",
+  "version": "1.0.0",
+  "description": "CLI tool of fastret-framework",
+  "main": "index.js",
+  "bin": {
+    "fastret": "index.js"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node index.js tests/data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/fastret-cli.git"
+  },
+  "keywords": [
+    "fastret",
+    "fastret-framework",
+    "restapi",
+    "rest-test"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/fastret-cli/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/fastret-cli#readme",
+  "dependencies": {
+    "fastret-framework": "^1.0.2",
+    "load-json-file": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
