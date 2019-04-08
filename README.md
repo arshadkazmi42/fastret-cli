@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.com/arshadkazmi42/fastret-cli.svg?branch=master)](https://travis-ci.com/arshadkazmi42/fastret-cli)
 [![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/fastret-cli.svg)](https://github.com/arshadkazmi42/fastret-cli)
+[![NPM Downloads](https://img.shields.io/npm/dt/fastret-cli.svg)](https://www.npmjs.com/package/fastret-cli)
 
 CLI tool for fastret-framework
 
