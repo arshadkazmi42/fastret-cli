@@ -5,6 +5,7 @@
 [![NPM Downloads](https://img.shields.io/npm/dt/fastret-cli.svg)](https://www.npmjs.com/package/fastret-cli)
 [![LICENSE](https://img.shields.io/npm/l/fastret-cli.svg)](https://github.com/arshadkazmi42/fastret-cli/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/fastret-cli.svg)](https://github.com/arshadkazmi42/fastret-cli/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/fastret-cli.svg)](https://github.com/arshadkazmi42/fastret-cli/commits/master)
 
 CLI tool for fastret-framework
 
