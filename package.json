@@ -1,6 +1,6 @@
 {
   "name": "fastret-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool of fastret-framework",
   "main": "index.js",
   "bin": {
